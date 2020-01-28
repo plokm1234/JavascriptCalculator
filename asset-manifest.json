@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/JavascriptCalculator/static/css/main.2cbb25ff.chunk.css",
+    "main.js": "/JavascriptCalculator/static/js/main.e39e7fd7.chunk.js",
+    "main.js.map": "/JavascriptCalculator/static/js/main.e39e7fd7.chunk.js.map",
+    "runtime-main.js": "/JavascriptCalculator/static/js/runtime-main.63f8e8ad.js",
+    "runtime-main.js.map": "/JavascriptCalculator/static/js/runtime-main.63f8e8ad.js.map",
+    "static/js/2.ef52ecf4.chunk.js": "/JavascriptCalculator/static/js/2.ef52ecf4.chunk.js",
+    "static/js/2.ef52ecf4.chunk.js.map": "/JavascriptCalculator/static/js/2.ef52ecf4.chunk.js.map",
+    "index.html": "/JavascriptCalculator/index.html",
+    "precache-manifest.0a73dfc4a74bb7420c7702d6ebdd6023.js": "/JavascriptCalculator/precache-manifest.0a73dfc4a74bb7420c7702d6ebdd6023.js",
+    "service-worker.js": "/JavascriptCalculator/service-worker.js",
+    "static/css/main.2cbb25ff.chunk.css.map": "/JavascriptCalculator/static/css/main.2cbb25ff.chunk.css.map",
+    "static/js/2.ef52ecf4.chunk.js.LICENSE": "/JavascriptCalculator/static/js/2.ef52ecf4.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63f8e8ad.js",
+    "static/js/2.ef52ecf4.chunk.js",
+    "static/css/main.2cbb25ff.chunk.css",
+    "static/js/main.e39e7fd7.chunk.js"
+  ]
+}
